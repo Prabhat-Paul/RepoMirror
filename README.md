@@ -4,6 +4,10 @@
 RepoMirror evaluates any public GitHub repository and generates a reliable score, detailed summary, and personalized improvement roadmap — just like feedback from a senior mentor or recruiter.
 
 ---
+## 🎥 RepoMirror – Project Demo
+
+https://github.com/user-attachments/assets/0d651af9-e177-4296-8d35-a3984b77ba73
+
 
 ## 🚀 Project Overview
 
