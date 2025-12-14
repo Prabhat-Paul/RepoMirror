@@ -83,6 +83,18 @@ Copy code
 
 ## 🛠 Installation — Run Locally
 
+## 📋 Prerequisites
+
+Before you begin, ensure you have installed:
+- **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
+- **npm** (comes with Node.js)
+
+Check your installation:
+```bash
+node --version
+npm --version
+```
+
 Clone the repository:
 
 ```bash
