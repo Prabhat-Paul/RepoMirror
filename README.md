@@ -178,5 +178,9 @@ Do before submit:
 📜 License
 This project is open-source — feel free to use, modify, and distribute.
 
+⚠️ Note:
+RepoMirror currently uses a mock AI analysis engine to demonstrate the complete end-to-end workflow (UI, scoring, roadmap generation).
+Real AI integration using GitHub APIs and LLMs (Claude / GPT) is planned as a future enhancement.
+
 💬 About
 Built by Prabhat Paul
